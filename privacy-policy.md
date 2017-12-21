@@ -24,7 +24,7 @@ This tracking enables us to improve the emails we send you and to build a more e
 
 ## Cookies
 
-To enhance and personalize your experience, we use “cookies.” Cookies are text files that your web browser places on your computer’s hard drive to store your preferences. Our site uses “session” cookies, which are not persistent and are removed from your computer when you close your web browser. For more information about cookies, please visit http://www.cookiecentral.com.
+To enhance and personalize your experience, we use “cookies.” Cookies are text files that your web browser places on your computer’s hard drive to store your preferences. Our site uses “session” cookies, which are not persistent and are removed from your computer when you close your web browser. You can use [Tor](https://www.torproject.org/) if you wish to keep your connection information anonymous, but please note that you can still be identified to the Knight Institute if you provide personally identifiable information.
 
 ## Collection of information by third parties
 
