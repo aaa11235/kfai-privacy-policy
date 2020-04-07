@@ -54,9 +54,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If you have any questions about this privacy policy, or the content or practices of our website, please contact:
 
-*Knight First Amendment Institute at Columbia University*
-*535 W. 116th Street*
-*314 Low Library*
-*New York, NY 10027*
-*(212) 854-9600*
-*knightinstitute@columbia.edu*
+*Knight First Amendment Institute at Columbia University
+475 Riverside Drive, Suite 302
+New York, NY 10115
+(646) 745-8500
+info@knightcolumbia.org*
