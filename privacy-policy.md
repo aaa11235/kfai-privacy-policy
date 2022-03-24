@@ -30,6 +30,8 @@ To enhance and personalize your experience, we use “cookies.” Cookies are te
 
 Some of our web pages and services contain links to other sites and services. For example, we sometimes provide links to social-media platforms, such as Facebook and Twitter, and we sometimes embed content from other sites directly within ours, such as embedded videos from YouTube or documents from DocumentCloud. Those sites may collect your data or place cookies on or retrieve cookies from your computer. You should consult the privacy policies of those sites to understand how they collect and handle your information, as we have no control over information that is submitted to, or collected by, these third parties.
 
+Additionally, we use Cloudflare to protect our website and to optimize its performance. You can read Cloudflare’s privacy policy here: https://www.cloudflare.com/privacypolicy/.
+
 ## Will we disclose your personal information to others?
 
 We do not sell, rent, give away, or loan any identifiable information regarding our users to any third party other than agents and contractors of the Knight First Amendment Institute or Columbia University.
